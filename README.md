@@ -1,2 +1,2 @@
-# peat
+# thanks
 thanks for downloading
